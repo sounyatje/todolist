@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Cleaning",
+      "description": "Clean the kitchen and living room",
+      "priority": true
+    },
+    {
+      "id": 2,
+      "name": "Groceries",
+      "description": "Buy fruits and vegetables",
+      "priority": false
+    },
+    {
+      "id": 3,
+      "name": "Study",
+      "description": "Study for the mathematics exam",
+      "priority": true
+    },
+    {
+      "id": 4,
+      "name": "Meeting",
+      "description": "Meeting with the project manager",
+      "priority": false
+    },
+    {
+      "id": 5,
+      "name": "Organizing",
+      "description": "Organize the bedroom and desk",
+      "priority": false
+    }
+  ]
+  
